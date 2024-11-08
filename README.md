@@ -1,1 +1,1 @@
-# ResnetTest
+Download resnet50.onnx from https://huggingface.co/microsoft/dml-ai-hub-models/tree/main/resnet50 and place it in the project folder.
